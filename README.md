@@ -6,3 +6,5 @@ This is a new push test on my Master repository
 close issue.
 
 close issue, through fork.
+
+Teste for new local branch
